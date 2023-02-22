@@ -1,6 +1,12 @@
 #include"use2Dmatrix.h"
 
-
+void output() {
+	cout << "1.Initialize array." << endl;
+	cout << "2.Enter Values." << endl;
+	cout << "3.Calculate the average score of each student." << endl;
+	cout << "4.Calculate the average score of each test." << endl;
+	cout << "Any othe input WILL stop the program\n\n";
+}
 void initarr(int student[3][3]) {							//in cpp the values are already set to 0 without doing anything but just for a future case this should be ready
 	for (int x = 0; x < 3; x++) {
 		for (int y = 0; y < 3; y++) {
