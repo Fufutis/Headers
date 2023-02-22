@@ -21,6 +21,10 @@
   <ItemGroup>
     <ClInclude Include="use2Dmatrix.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="use2Dmatrix.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
