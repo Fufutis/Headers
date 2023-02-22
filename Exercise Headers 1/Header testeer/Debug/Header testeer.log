@@ -1,0 +1,8 @@
+﻿  program1.cpp
+C:\Users\st022321\source\repos\Header testeer\Header testeer\program1.cpp(17,32): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\st022321\source\repos\Header testeer\Header testeer\program1.cpp(20,39): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\st022321\source\repos\Header testeer\Header testeer\program1.cpp(20,35): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\st022321\source\repos\Header testeer\Header testeer\program1.cpp(23,38): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\st022321\source\repos\Header testeer\Header testeer\program1.cpp(23,34): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\st022321\source\repos\Header testeer\Header testeer\program1.cpp(4,19): warning C4101:  'result': unreferenced local variable
+  Header testeer.vcxproj -> C:\Users\st022321\source\repos\Header testeer\Debug\Header testeer.exe
